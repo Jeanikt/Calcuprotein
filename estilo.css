@@ -17,7 +17,7 @@ body{
 }
 */
 #marca {
-	font-size: 54px;
+	font-size: 44px;
 	width: 0%;
 	height: 100px;
 	text-align: center;
@@ -37,13 +37,13 @@ color: blue;
 
 .card{
 	font-size: 25px;
-	max-width: 50rem;
+	max-width: 500rem;
 	border-radius: 20px;
 	box-shadow: 0 0 3rem 1rem rgba(0,0,0,0.2);
 	text-align: center;
 	width: 90px;
 	margin: 0 auto;
-	min-width: 1000px;
+	min-width: 400px;
 	max-width: 1280px;
 	padding-top: 12px;
 	padding-bottom: 15px;
@@ -67,7 +67,7 @@ color: blue;
 #display {
     text-align: right;
     height: 70px;
-    line-height: 20px;
+    line-height: 80px;
     padding: 13px 6px;
     font-size: 40px;
 }
@@ -90,7 +90,6 @@ color: blue;
     text-align: center;
     font-size: 25px;
     cursor: pointer;
-    padding-bottom: 20px;
 }
 
 #equal {
